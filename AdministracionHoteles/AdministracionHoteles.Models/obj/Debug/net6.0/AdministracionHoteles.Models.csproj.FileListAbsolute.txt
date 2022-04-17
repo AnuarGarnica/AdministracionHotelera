@@ -1,0 +1,12 @@
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\bin\Debug\net6.0\AdministracionHoteles.Models.deps.json
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\bin\Debug\net6.0\AdministracionHoteles.Models.dll
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\bin\Debug\net6.0\AdministracionHoteles.Models.pdb
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\obj\Debug\net6.0\AdministracionHoteles.Models.csproj.AssemblyReference.cache
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\obj\Debug\net6.0\AdministracionHoteles.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\obj\Debug\net6.0\AdministracionHoteles.Models.AssemblyInfoInputs.cache
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\obj\Debug\net6.0\AdministracionHoteles.Models.AssemblyInfo.cs
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\obj\Debug\net6.0\AdministracionHoteles.Models.csproj.CoreCompileInputs.cache
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\obj\Debug\net6.0\AdministracionHoteles.Models.dll
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\obj\Debug\net6.0\refint\AdministracionHoteles.Models.dll
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\obj\Debug\net6.0\AdministracionHoteles.Models.pdb
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Models\obj\Debug\net6.0\ref\AdministracionHoteles.Models.dll

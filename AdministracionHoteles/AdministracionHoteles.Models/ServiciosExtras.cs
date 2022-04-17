@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace AdministracionHoteles.Models
 {
-    internal class ServiciosExtras
+    public class ServiciosExtras
     {
 		[Key]
 		public int id { get; set; }

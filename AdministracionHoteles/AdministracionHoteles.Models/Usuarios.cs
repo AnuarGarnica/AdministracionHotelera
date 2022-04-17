@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AdministracionHoteles.Models
 {
-    internal class Usuarios
+    public class Usuarios
     {
 		[Key]
 		public int id { get; set; }

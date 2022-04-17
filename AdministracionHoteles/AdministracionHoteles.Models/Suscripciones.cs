@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AdministracionHoteles.Models
 {
-    internal class Suscripciones
+    public class Suscripciones
     {
         [Key]
         public int id { get; set; }

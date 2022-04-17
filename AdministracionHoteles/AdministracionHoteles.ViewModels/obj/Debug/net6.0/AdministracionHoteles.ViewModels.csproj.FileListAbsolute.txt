@@ -1,0 +1,12 @@
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\bin\Debug\net6.0\AdministracionHoteles.ViewModels.deps.json
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\bin\Debug\net6.0\AdministracionHoteles.ViewModels.dll
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\bin\Debug\net6.0\AdministracionHoteles.ViewModels.pdb
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\obj\Debug\net6.0\AdministracionHoteles.ViewModels.csproj.AssemblyReference.cache
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\obj\Debug\net6.0\AdministracionHoteles.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\obj\Debug\net6.0\AdministracionHoteles.ViewModels.AssemblyInfoInputs.cache
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\obj\Debug\net6.0\AdministracionHoteles.ViewModels.AssemblyInfo.cs
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\obj\Debug\net6.0\AdministracionHoteles.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\obj\Debug\net6.0\AdministracionHoteles.ViewModels.dll
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\obj\Debug\net6.0\refint\AdministracionHoteles.ViewModels.dll
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\obj\Debug\net6.0\AdministracionHoteles.ViewModels.pdb
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.ViewModels\obj\Debug\net6.0\ref\AdministracionHoteles.ViewModels.dll

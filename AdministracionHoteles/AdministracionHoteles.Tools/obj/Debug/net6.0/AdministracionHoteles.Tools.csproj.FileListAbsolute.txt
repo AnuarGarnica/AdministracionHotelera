@@ -1,0 +1,15 @@
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\bin\Debug\net6.0\AdministracionHoteles.Tools.deps.json
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\bin\Debug\net6.0\AdministracionHoteles.Tools.dll
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\bin\Debug\net6.0\AdministracionHoteles.Tools.pdb
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\bin\Debug\net6.0\AdministracionHoteles.ViewModels.dll
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\bin\Debug\net6.0\AdministracionHoteles.ViewModels.pdb
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\obj\Debug\net6.0\AdministracionHoteles.Tools.csproj.AssemblyReference.cache
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\obj\Debug\net6.0\AdministracionHoteles.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\obj\Debug\net6.0\AdministracionHoteles.Tools.AssemblyInfoInputs.cache
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\obj\Debug\net6.0\AdministracionHoteles.Tools.AssemblyInfo.cs
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\obj\Debug\net6.0\AdministracionHoteles.Tools.csproj.CoreCompileInputs.cache
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\obj\Debug\net6.0\AdministracionHoteles.Tools.csproj.CopyComplete
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\obj\Debug\net6.0\AdministracionHoteles.Tools.dll
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\obj\Debug\net6.0\refint\AdministracionHoteles.Tools.dll
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\obj\Debug\net6.0\AdministracionHoteles.Tools.pdb
+C:\Users\anuar\Desktop\Projects\Hoteles\AdministracionHoteles\AdministracionHoteles.Tools\obj\Debug\net6.0\ref\AdministracionHoteles.Tools.dll

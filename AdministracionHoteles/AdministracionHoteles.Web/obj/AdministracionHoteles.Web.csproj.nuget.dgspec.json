@@ -4,14 +4,14 @@
     "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Web\\AdministracionHoteles.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Web\\AdministracionHoteles.Web.csproj": {
+    "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Models\\AdministracionHoteles.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Web\\AdministracionHoteles.Web.csproj",
-        "projectName": "AdministracionHoteles.Web",
-        "projectPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Web\\AdministracionHoteles.Web.csproj",
+        "projectUniqueName": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Models\\AdministracionHoteles.Models.csproj",
+        "projectName": "AdministracionHoteles.Models",
+        "projectPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Models\\AdministracionHoteles.Models.csproj",
         "packagesPath": "C:\\Users\\anuar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Web\\obj\\",
+        "outputPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,208 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Tools\\AdministracionHoteles.Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Tools\\AdministracionHoteles.Tools.csproj",
+        "projectName": "AdministracionHoteles.Tools",
+        "projectPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Tools\\AdministracionHoteles.Tools.csproj",
+        "packagesPath": "C:\\Users\\anuar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.ViewModels\\AdministracionHoteles.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.ViewModels\\AdministracionHoteles.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.ViewModels\\AdministracionHoteles.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.ViewModels\\AdministracionHoteles.ViewModels.csproj",
+        "projectName": "AdministracionHoteles.ViewModels",
+        "projectPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.ViewModels\\AdministracionHoteles.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\anuar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Web\\AdministracionHoteles.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Web\\AdministracionHoteles.Web.csproj",
+        "projectName": "AdministracionHoteles.Web",
+        "projectPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Web\\AdministracionHoteles.Web.csproj",
+        "packagesPath": "C:\\Users\\anuar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Models\\AdministracionHoteles.Models.csproj": {
+                "projectPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Models\\AdministracionHoteles.Models.csproj"
+              },
+              "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Tools\\AdministracionHoteles.Tools.csproj": {
+                "projectPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Tools\\AdministracionHoteles.Tools.csproj"
+              },
+              "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.ViewModels\\AdministracionHoteles.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.ViewModels\\AdministracionHoteles.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DevExpress.Data": {
+              "target": "Package",
+              "version": "[21.2.6, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

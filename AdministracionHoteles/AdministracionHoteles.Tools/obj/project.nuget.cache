@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0NCCn3go2s0qBFkoHyKuR9SqPN6EnfPRqgQ5iBlnyBu/F83GSlVwBg1bORaw5+dcVD/foQ3nAEIEGNOmJoGjDQ==",
+  "dgSpecHash": "PlqHM5RmuRwoUF0W6UqYFiLv70+uAMWqghS9NbSyECmPot8118P5cnHKDuRnjPqbs7sxRTIcJ9gGgze5JXMp6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\anuar\\Desktop\\Projects\\Hoteles\\AdministracionHoteles\\AdministracionHoteles.Tools\\AdministracionHoteles.Tools.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\anuar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\anuar\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\anuar\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\anuar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,4 +6,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Data" Version="21.2.6" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdministracionHoteles.Models\AdministracionHoteles.Models.csproj" />
+    <ProjectReference Include="..\AdministracionHoteles.Tools\AdministracionHoteles.Tools.csproj" />
+    <ProjectReference Include="..\AdministracionHoteles.ViewModels\AdministracionHoteles.ViewModels.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace AdministracionHoteles.Models
 {
-    internal class ReservaDetalle
+    public class ReservaDetalle
     {
         [Key]
 		public int id { get; set; }
